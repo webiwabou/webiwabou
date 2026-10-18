@@ -40,7 +40,3 @@ A research CLI/TUI built on the OpenCode agent foundation. I develop tooling for
 | Frontend | React, Next.js, Tailwind CSS |
 | Backend & integration | Node.js, Express, NestJS, FastAPI, Spring Boot, REST, WebSockets |
 | Data & testing | Prisma, PyTorch, Hugging Face, Jest, pytest, JUnit |
-
-## Machine learning work
-
-[**Brain Tumor MRI Classification**](https://github.com/webiwabou/Brain-Tumors-Classification) — Compared Vision Transformer and ConvNeXt models using PyTorch and Hugging Face, with data exploration, fine-tuning, model evaluation and visual explanations.
